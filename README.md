@@ -4,7 +4,7 @@ Firmware available through
 
 ## Changes
 1. Added universal switch holes for MX/Alps, Matias/Choc
-2.Added support for through-hole diodes
+2. Added support for through-hole diodes
 3. Fixed edge cuts: They were off center from the middle of the pcb.
 4. Rounded the sharp corners.
 5. Uncomplicated the trace layout.
