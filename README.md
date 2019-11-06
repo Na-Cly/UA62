@@ -10,3 +10,5 @@ Firmware available through
 5. Uncomplicated the trace layout.
 6. Updated pinout for pro micro.
 7. Updated Silkscreen.
+
+Uses MIT licensed footprints originally sourced from here: https://github.com/keebio/Keebio-Parts.pretty
