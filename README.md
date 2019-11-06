@@ -1,5 +1,6 @@
 # UA62
 A Universal PCB for the atreus62
+Firmware available through
 
 ## Changes
 1. Added universal switch holes for MX/Alps, Matias/Choc
@@ -7,5 +8,6 @@ A Universal PCB for the atreus62
 3. Fixed edge cuts
   a. They were off center from the middle of the pcb.
   b. Rounded the sharp corners.
-4. Uncomplicated the trace layout. 
-5. Updated Silkscreen.
+4. Uncomplicated the trace layout.
+5. Updated pinout for pro micro.
+6. Updated Silkscreen.
