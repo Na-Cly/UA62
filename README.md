@@ -1,6 +1,6 @@
 # UA62
-A Universal PCB for the atreus62
-Firmware available through
+A Universal PCB for the atreus62 by profet23
+Firmware files soon available.
 
 ## Changes
 1. Added universal switch holes for MX/Alps, Matias/Choc
