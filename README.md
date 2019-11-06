@@ -1,7 +1,7 @@
 # UA62
 A Universal PCB for the atreus62
 
-##Changes
+## Changes
 1. Added universal switch holes for MX/Alps, Matias/Choc
 2.Added support for through-hole diodes
 3. Fixed edge cuts
