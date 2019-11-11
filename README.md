@@ -1,6 +1,6 @@
 # UA62
 A Universal PCB for the atreus62 by profet23
-###Firmware availble from the qmk repo
+#### Firmware availble from the qmk repo
 ## Changes
 1. Added universal switch holes for MX/Alps, Matias/Choc
 2. Added support for through-hole diodes
