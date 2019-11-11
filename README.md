@@ -6,7 +6,7 @@ A Universal PCB for the atreus62 by profet23
 
 #### Build tips
 * Diode direction for through hole
-![Diodes](diodes.png)
+* ![Diodes](diodes.png)
 ### Changes
 1. Added universal switch holes for MX/Alps, Matias/Choc
 2. Added support for through-hole diodes
