@@ -3,6 +3,10 @@ A Universal PCB for the atreus62 by profet23
 #### Firmware availble on the qmk configurator or the qmk repo: 
 * https://github.com/qmk/qmk_firmware
 * https://config.qmk.fm/#/ua62/LAYOUT (default layout to come)
+
+#### Build tips
+* Diode direction for through hole
+![Diodes](https://github.com/Na-Cly/UA62/pictures/diodes.png)
 ### Changes
 1. Added universal switch holes for MX/Alps, Matias/Choc
 2. Added support for through-hole diodes
