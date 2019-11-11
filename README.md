@@ -5,10 +5,10 @@ A Universal PCB for the atreus62 by profet23
 * https://config.qmk.fm/#/ua62/LAYOUT (default layout to come)
 
 #### Build tips
-* Diode direction for through hole
- ![Diodes](diodes.png)
+* Diode direction for through hole  
+ ![Diodes](diodes.png)  
  
-* The pro micro and diodes are soldered to the bottom of the pcb. 
+* The pro micro and diodes are soldered to the bottom of the pcb.  
  ![pro_micro](pro_micro.jpg)
 ### Changes
 1. Added universal switch holes for MX/Alps, Matias/Choc
