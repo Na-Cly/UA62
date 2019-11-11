@@ -3,6 +3,7 @@ A Universal PCB for the atreus62 by profet23
 #### Firmware availble on the qmk configurator or the qmk repo: 
 * https://github.com/qmk/qmk_firmware
 * https://config.qmk.fm/#/ua62/LAYOUT (default layout to come)
+* no default layout, so grab the json layout and upload it if you want a base layout to start from.
 
 #### Build tips
 * Diode direction for through hole  
